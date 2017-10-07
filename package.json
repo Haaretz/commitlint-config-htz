@@ -1,6 +1,6 @@
 {
   "name": "@haaretz/commitlint-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Shareable commitlint config enforcing the Haaretz commit convention (mostly angular, but a bit more relaxed)",
   "main": "index.js",
   "repository": {
