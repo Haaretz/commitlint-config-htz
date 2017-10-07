@@ -1,0 +1,30 @@
+{
+  "name": "@haaretz/commitlint-config",
+  "version": "1.0.0",
+  "description": "Shareable commitlint config enforcing the Haaretz commit convention (mostly angular, but a bit more relaxed)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haaretz/commitlint-config-htz.git"
+  },
+  "bugs": {
+    "url": "git+https://github.com/Haaretz/commitlint-config-htz/issues"
+  },
+  "homepage": {
+    "url": "git+https://github.com/Haaretz/commitlint-config-htz/"
+  },
+  "author": "TxHawks <tofu.hawks@gmail.com>",
+  "keywords": [
+    "conventional-changelog",
+    "commitlint",
+    "commitlint",
+    "commitlint-config",
+    "haaretz",
+    "htz"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {}
+}
