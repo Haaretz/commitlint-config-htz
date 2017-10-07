@@ -30,7 +30,7 @@ The following rules must too be observed:
   * `revert` Reverting an old commit 
   * `style` Reformatting, missing commas, semi colons, etc.
   * `test` When _only_ adding missing or fixing failing tests
-* The `type` must be lower-case
+  * `WIP` Work in progress
 * The header _may_ include a `scope` denoting what parts of the code are affected by the changes
 * The scope must be enclosed in parentheses
 * The `scope` must be lower-case

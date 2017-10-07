@@ -8,7 +8,6 @@ module.exports = {
     'subject-empty': [2, 'never'],
     'subject-full-stop': [2, 'never', '.'],
     'subject-tense': [1, 'always', ['present-imperative']],
-    'type-case': [2, 'always', 'lowerCase'],
     'type-empty': [1, 'never'],
     'type-enum': [
       2,
@@ -24,7 +23,8 @@ module.exports = {
         'refactor',
         'revert',
         'style',
-        'test'
+        'test',
+        'WIP',
       ]
     ]
   },
