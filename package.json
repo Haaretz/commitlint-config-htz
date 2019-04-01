@@ -10,9 +10,7 @@
   "bugs": {
     "url": "git+https://github.com/Haaretz/commitlint-config-htz/issues"
   },
-  "homepage": {
-    "url": "git+https://github.com/Haaretz/commitlint-config-htz/"
-  },
+  "homepage": "git+https://github.com/Haaretz/commitlint-config-htz/",
   "author": "TxHawks <tofu.hawks@gmail.com>",
   "keywords": [
     "conventional-changelog",
