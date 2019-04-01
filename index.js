@@ -6,7 +6,7 @@ module.exports = {
     'scope-case': [0, 'always', 'lowerCase'],
     'subject-empty': [2, 'never'],
     'subject-full-stop': [2, 'never', '.'],
-    'type-empty': [1, 'never'],
+    'type-empty': [2, 'never'],
     'type-enum': [
       2,
       'always',
